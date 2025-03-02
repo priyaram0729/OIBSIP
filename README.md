@@ -1,2 +1,0 @@
-# OIBSIP
-oasis infobyte res
